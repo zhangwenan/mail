@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/zhangwenan/mail-util/issues"
   },
-  "homepage": "https://github.com/zhangwenan/mail-util#readme"
+  "homepage": "https://github.com/zhangwenan/mail-util#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "cookie-util": "^1.0.1",
+    "http": "0.0.0",
+    "http-tools": "^1.0.0",
+    "https": "^1.0.0",
+    "iconv-lite": "^0.4.13",
+    "log4js": "^0.6.33",
+    "mkdirp": "^0.5.1",
+    "querystring": "^0.2.0",
+    "restler": "^3.4.0"
+  }
 }
